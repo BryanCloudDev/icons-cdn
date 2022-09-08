@@ -4,6 +4,8 @@
   url("../fonts/bootstrap-icons.woff?a97b3594ad416896e15824f6787370e0") format("woff");
 }
 
+/* https://bryanclouddev.github.io/icons-cdn/fonts/bootstrap-icons.css */
+
 .bi::before,
 [class^="bi-"]::before,
 [class*=" bi-"]::before {
